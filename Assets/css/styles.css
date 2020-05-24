@@ -1,4 +1,27 @@
-.yourname {
+body {
+    background-image: url('https://bhf-cdn.azureedge.net/bhf-blob-prod/0014375_sultan-neutral-fabric-texture_600.jpeg');
+}
+
+header {
+    border-bottom: solid lightgray;
+    background-color: white;
+}
+
+header div div div h1 {
     background-color: #4aaaa5;
-    float: left;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    color: white;
+}
+section div div div {
+    background-color: white;
+}
+footer {
+    background-color: gray;
+    border-top: 5px solid #4aaaa5;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
