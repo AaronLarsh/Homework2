@@ -13,9 +13,29 @@ header div div div h1 {
     margin-bottom: 0px;
     color: white;
 }
-section div div div {
+
+section div div div{
     background-color: white;
+    margin-top: 20px;
 }
+
+section div div div h2 {
+    border-bottom: solid lightgray;
+    color: #4aaaa5;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+section div div div p{
+    position: absolute;
+    bottom: 0px;
+    color: #fff;
+    width: auto;
+    text-align: center;
+    background: #4aaaa5;
+
+}
+
 footer {
     background-color: gray;
     border-top: 5px solid #4aaaa5;
